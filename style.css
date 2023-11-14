@@ -3,6 +3,7 @@
     padding: 0;
 }
 .button{
+    border: none;
     border-radius: 20px;
     background: #128C7E;
     display: flex;
